@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1751765042 source:c:\users\sabessantos\downloads\unicesumar-aula1-estrutura-de-dados-master\unicesumar-aula1-estrutura-de-dados-master\main.c
+	<stdio.h>
+	<locale.h>
+
+1751765042 source:c:\users\sabessantos\downloads\unicesumar-aula1-estrutura-de-dados-master\unicesumar-aula1-estrutura-de-dados-master\matriz.c
+	<stdio.h>
+
+1751765042 source:c:\users\sabessantos\downloads\unicesumar-aula1-estrutura-de-dados-master\unicesumar-aula1-estrutura-de-dados-master\registro.c
+	<stdio.h>
+
+1751765042 source:c:\users\sabessantos\downloads\unicesumar-aula1-estrutura-de-dados-master\unicesumar-aula1-estrutura-de-dados-master\vetor.c
+	<stdio.h>
+
+1751781231 source:c:\users\sabessantos\downloads\teste\aaa\teste 2\matriz.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1751781779 source:c:\users\sabessantos\downloads\teste\aaa\teste 2\registro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1751781892 source:c:\users\sabessantos\downloads\teste\aaa\teste 2\vetor.c
+	<stdio.h>
+	<stdlib.h>
+
+1751776168 source:c:\users\sabessantos\downloads\teste\aaa\teste 2\main.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+
